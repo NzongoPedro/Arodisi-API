@@ -1,7 +1,26 @@
-# default
+# Arodisi API
 
-## Project setup
+![Logo do Meu Projeto](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png)
 
+
+```
+Brevemente mais descrição
+```
+### Link para testes
+
+
+* [ARODIS-API](http://prsp.rf.gd/arodisi-api)
+
+### SKILS
+```
+- PHP
+- VUETIFY
+- VUEJS + VITE
+```
+
+:rocket: Este projeto é incrível, Espero que te ajude!
+
+## Para instalação local
 ```
 # yarn
 yarn
